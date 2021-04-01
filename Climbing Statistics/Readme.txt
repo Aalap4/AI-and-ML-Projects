@@ -1,10 +1,4 @@
-EEE 511 - Artificial Neural Computation, Spring 2020
-
-Midterm Project- Kaggle Dataset
-
-Team 1 
-
-Authors : Aalap Doshi, Poojan Patel, Varadaraya Ganesh Shenoy.
+Authors : Aalap Doshi
 
 For the codes to run successfully , please make sure the climbing_statistics.csv and Rainier_Weather.csv is placed in the same directory as the codes . 
 
