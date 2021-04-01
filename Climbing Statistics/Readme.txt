@@ -1,7 +1,3 @@
-EEE 511 - Artificial Neural Computation, Spring 2020
-
-Midterm Project- Kaggle Dataset
-
 Team 1 
 
 Authors : Aalap Doshi, Poojan Patel, Varadaraya Ganesh Shenoy.
