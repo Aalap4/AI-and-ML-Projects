@@ -1,0 +1,1 @@
+We create a regression model for the happiness score using the provided features. This is done via two ways (ie) Linear Regression and Multi-Layer Perceptron.First,a linear regression model for the given dataset is created, then the RMSE for the corresponding model is recorded.The same is repeated using Multi-Layer Perceptron which performs as well as the linear regression model.
